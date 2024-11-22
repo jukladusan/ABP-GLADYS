@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('Img/turquesafondo.png');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-image: url('Img/turquesafondo.png');
+    background-size: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-img-top{
+    height: 200px;
+    width: 350px;
+}
+
+.card-text {
+    text-align: justify;
+}
